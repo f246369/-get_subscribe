@@ -35,9 +35,9 @@
 
 | 链接 | 价位 | Telegram群 | 备注 |
 |----|----|----|----|
-|[https://cc.tapfog.pro](https://cc.tapfog.pro/#/register?code=rm5I5qDA)| 9.8元 60G/月 |[@tapfoggroup](https://t.me/+km7x9UyPLuVmNWNl)|正常访问|
-|[https://www.efcloud.bio](https://www.efcloud.bio/#/register?code=kbbSUTvm)|	9 元 350G/月|[@efcloudgroup](https://t.me/efcloudgroup)|正常使用|
-|[https://www.fccloud.cc](https://www.fccloud.cc/#/register?code=AYsN4z5L)|	10 元 150G/月|[@fccloudchat](https://t.me/fccloudchat)|需要挂代理访问|
+|[https://ss.vgsseven.com](https://ss.vgsseven.com/#/register?code=rm5I5qDA)| 9.8元 60G/月 |[@tapfoggroup](https://t.me/+km7x9UyPLuVmNWNl)|正常访问|
+|[https://www.efcloud.bio](https://www.efcloud.bio/#/register?code=kbbSUTvm)|	9 元 350G/月|[@efcloudgroup](https://t.me/efcloudgroup)|正常访问|
+|[https://www.fccloud.cc](https://www.fccloud.cc/#/register?code=AYsN4z5L)|	10 元 150G/月|[@fccloudchat](https://t.me/fccloudchat)|正常访问|
 
 ## ⭐ 感谢支持
 
