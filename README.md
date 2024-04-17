@@ -18,9 +18,6 @@
 
 - v2ray订阅链接：`https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt`
 
-## 📧 更新推送
-
-- 由于留邮箱会导致收到垃圾信息，删除此功能了！
 
 ## 📘 客户端使用方法
 
